@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
 echo "ALX School"
->>>>>>> update_script
-=======
-echo "ALX School"
->>>>>>> c4b3e1774e1bf2782468752ccb15071f177a39f2
